@@ -1,0 +1,93 @@
+{
+  "AboutMe": "My name is Masoodah  and it means 'good woman' in arabic or 'fortunate' in urdu.",
+  "Projects": [
+    {
+      "name": "Calculator",
+      "Github": "https://github.com/MasoodahGeorge/calc-functional-.git",
+      "Vercel": "https://calc-functional.vercel.app/",
+      "Description": "A simple calculator built using HTML, CSS and JavaScript",
+      "Image": "https://i.postimg.cc/7Zn8tx73/calc.png"
+    },
+    {
+      "name": "BMI Calculator",
+      "Github": "https://github.com/MasoodahGeorge/bmi-calc.git",
+      "Vercel": "https://bmi-calc-kohl.vercel.app/",
+      "Description": "A BMI calculator built using HTML, CSS and JavaScript",
+      "Image": "url"
+    },
+    {
+      "name": "Ecomerce EOMP",
+      "Github": "https://github.com/MasoodahGeorge/ecomEOMP.git",
+      "Vercel": "https://ecom-eomp.vercel.app/",
+      "Description": "An e-commerce website built using HTML, CSS, JavaScript and React",
+      "Image": "url"
+    },
+    {
+      "name": "To-do list app",
+      "Github": "https://github.com/MasoodahGeorge/ToDoListTask.git",
+      "Vercel": "https://to-do-list-task-gamma.vercel.app/",
+      "Description": "A to-do list app built using HTML, CSS, JavaScript and React",
+      "Image": "url"
+    },
+    {
+      "name": "Hex to RGB Converter",
+      "Github": "https://github.com/MasoodahGeorge/ToDoListTask.git",
+      "Vercel": "https://hex-to-rgb-omega.vercel.app/",
+      "Description": "A hex to RGB converter built using HTML, CSS and JavaScript",
+      "Image": "url"
+    },
+    {
+      "name": "RGB to Hex Converter",
+      "Github": "https://github.com/MasoodahGeorge/RGBtoHex.git",
+      "Vercel": "https://rg-bto-hex-eight.vercel.app/",
+      "Description": "A RGB to Hex converter built using HTML, CSS and JavaScript",
+      "Image": "url"
+    },
+    {
+      "name": "Area of a Triangle Calculator",
+      "Github": "https://github.com/MasoodahGeorge/AreaOfTri.git",
+      "Vercel": "https://area-of-tri.vercel.app/",
+      "Description": "An area of a triangle calculator built using HTML, CSS and JavaScript",
+      "Image": "url"
+    }
+  ],
+  "Education": {
+    "Description": "2018-2023 - Attended at Spine Road High School. 2024 - Current Date - Attending at Life Choices Academy.",
+    "Year": "April 2024 - Present day",
+    "Institution": "Life Choices Academy",
+    "Contact": [
+      {
+        "Name": "Masoodah George",
+        "Contact number": "+27 62 163 6155"
+      }
+    ],
+    "Skills": [
+      {
+        "Name":"HTML",
+        "Image":"URL"
+      },
+      {
+        "Name":"CSS",
+        "Image":"URL"
+      },
+      {
+        "Name":"Javascript",
+        "Image":"URL"
+      },
+      {
+        "Name":"Bootstrap",
+        "Image":"URL"
+      }
+      {
+        "Name":"Node.js",
+        "Image":"URL"
+      }
+      }
+    ], 
+    "Work Experience":[
+        {
+
+        }
+    ]
+  }
+}
